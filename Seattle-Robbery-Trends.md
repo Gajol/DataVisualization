@@ -8,7 +8,8 @@ Sub-heading
 
 The below image shows how robberies in Seattle...
 
-[ Seattle Robberies By Day Of Week ] (https://github.com/Gajol/DataVisualization/blob/master/Robbery-DOW-Month.png)
+Seattle Robberies By Day Of Week:
+![ Seattle Robberies By Day Of Week ] (https://github.com/Gajol/DataVisualization/blob/master/Robbery-DOW-Month.png)
  
 Paragraphs are separated
 by a blank line.
