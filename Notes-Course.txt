@@ -1,0 +1,67 @@
+Windows 10 - 
+	https://insider.windows.com/
+	https://insider.windows.com/Home/SetupPC
+	Installed Media Creation Tool
+	ISO - stored on laptop @ C:\Users\Doug\AppData\Local\Microsoft\Windows\Burn\Burn
+
+	VirtualBox
+	C:\Users\Doug\VirtualBox VMs\DataVisualization-WindowsBurnBurn
+	Installing Windows 10 Pro (DVD ISO from above burn had Home & Pro)
+	
+	Uses Windows Live Accoutn, PIN 1524
+	
+	TODO - Builde  a VM Server
+	http://pc-addicts.com/building-the-ultimate-virtualbox-lab-intro/
+	
+	Host:  Windows, ESXi (VMWare), XENServer
+	
+	
+	
+	
+
+
+
+Assignment 1 - UoW Data Visualization
+http://jupyter.org/ - Notebook
+Therefore should do this in Linux (where Python is), but Tableau is in Windows....
+
+
+Tableau
+
+Calculated Field - Date / Time
+http://kb.tableau.com/articles/knowledgebase/combining-date-and-time-single-field
+
+Dateparse
+http://kb.tableau.com/articles/knowledgebase/understanding-the-dateparse-function
+
+Tableau Data Extracts (nice dashboard)
+https://www.tableau.com/about/blog/2014/7/why-use-tableau-data-extracts-32187
+https://www.tableau.com/about/blog/2014/7/understanding-tableau-data-extracts-part1
+Columnar Store http://nms.csail.mit.edu/~stavros/pubs/tutorial2009-column_stores.pdf
+Memory Mapped Files https://en.wikipedia.org/wiki/Memory-mapped_file
+
+
+Seattle Data Portal
+https://data.seattle.gov/
+
+SODA API
+Socrate Open Data APIS - https://dev.socrata.com/changelog/2015/11/25/soda-api-versioning.html
+
+https://dev.socrata.com/docs/datatypes/location.html#,
+
+
+Polygon
+https://dev.socrata.com/docs/datatypes/polygon.html#,
+
+
+Cross-Domain (Web Developers)
+https://dev.socrata.com/docs/cors-and-jsonp.html
+Cross-Origin Resource Sharing (CORS)
+
+
+Seattle Datasets
+https://data.seattle.gov/browse?sortBy=most_accessed&sortPeriod=week
+
+
+Reported Date Time
+19/08/2014 11:09:00 AM
