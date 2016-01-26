@@ -20,4 +20,6 @@ The below image shows the trend for all offences by hour.
 ### Conclusion
 Although a lot was learned in terms of setting up GitHub, Windows 10 on Virtual Box and attempting to use Tableau, I do not believe I have analysed and presented any meaningful conclusions.
 
+The main conclusions of the above visualizations, show that over the three months in 2014 of June, July and August, the number of robberies is not affected by the day of the week.   Most robberies occur in the late evening and early morning hours.     The robberies hourly trend generally follows the overall offences trend by hour, too.
+
 
